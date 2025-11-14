@@ -65,15 +65,4 @@ Repository documenting the **5-Day AI Agents Intensive Course** by **Google & Ka
 
 - 💬 [Kaggle Discord Community](https://discord.gg/kaggle)  
 - 🔑 [Google AI Studio](https://aistudio.google.com)  
-
----
-
-## 💡 Future Plans
-
-After completing the 5-day course, I plan to:
-- Extend the capstone into a **career-advice multi-agent chatbot**
-- Deploy it with a **Java + Node.js backend**
-- Host on **Google Cloud Run** with a live demo link  
-
----
-
+- 📚 [5-Day AI Agents Course Repository](https://github.com/Azam-aa/5Day-AI-Agents-Intensive-with-Google)
